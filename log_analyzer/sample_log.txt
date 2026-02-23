@@ -1,0 +1,20 @@
+2023-01-01 10:00:00 INFO: Application started successfully
+2023-01-01 10:01:15 INFO: User login: admin
+2023-01-01 10:02:30 WARNING: High memory usage detected: 85%
+2023-01-01 10:03:45 ERROR: Database connection failed
+2023-01-01 10:04:00 ERROR: Database connection failed
+2023-01-01 10:05:15 INFO: Retrying database connection
+2023-01-01 10:06:30 INFO: Database connection restored
+2023-01-01 10:07:45 WARNING: Slow query detected: 2.5 seconds
+2023-01-01 10:08:00 INFO: User logout: admin
+2023-01-01 10:09:15 ERROR: File not found: /tmp/data.csv
+2023-01-01 10:10:30 DEBUG: Cache cleared successfully
+2023-01-01 10:11:45 WARNING: Disk space low: 10% remaining
+2023-01-01 10:12:00 ERROR: File not found: /tmp/data.csv
+2023-01-01 10:13:15 INFO: System backup completed
+2023-01-01 10:14:30 ERROR: Authentication failed for user: test
+2023-01-01 10:15:45 WARNING: High CPU usage: 90%
+2023-01-01 10:16:00 INFO: User login: user1
+2023-01-01 10:17:15 ERROR: Authentication failed for user: test
+2023-01-01 10:18:30 INFO: Processing batch job: 1000 records
+2023-01-01 10:19:45 WARNING: High memory usage detected: 87%
